@@ -1,0 +1,2 @@
+# AllTheValine
+工業主体、バリン鯖産modを活用したキッチンシンク系modpack
